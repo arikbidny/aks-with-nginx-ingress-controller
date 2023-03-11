@@ -1,5 +1,10 @@
 # AKS with Ingress Controller
 
+## Prerequisites
+- Install Azure CLI: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+- Install Kubectl: https://kubernetes.io/docs/tasks/tools/
+- Install Helm: https://helm.sh/docs/intro/install/
+
 ## Create a resource group
 
 1. Go to Azure Portal
