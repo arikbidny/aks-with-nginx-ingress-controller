@@ -181,7 +181,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
- - http:
+  - http:
       paths:
       - path: /hello-world-one(/|$)(.*)
         pathType: Prefix
